@@ -1,0 +1,8 @@
+{
+  "name": "certify-it",
+  "app_id": "72f1f05b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
